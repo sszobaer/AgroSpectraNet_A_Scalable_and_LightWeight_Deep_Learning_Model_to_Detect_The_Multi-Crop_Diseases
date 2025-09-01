@@ -1,0 +1,1 @@
+# AgroSpectraNet_A_Scalable_and_LightWeight_Deep_Learning_Model_to_Detect_The_Multi-Crop_Diseases
